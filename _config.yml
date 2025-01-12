@@ -1,0 +1,15 @@
+title: Paisley
+email: hamedsedighi@gmail.com
+description: >-
+  A curated collection of insights from experienced technologists, each answering one simple yet profound question:
+  "What would you improve in your technical domain?"
+baseurl: "/paisley"
+url: "https://herol3oy.github.io"
+github_username: herol3oy
+
+remote_theme: jekyll/minima
+minima:
+  skin: dark
+
+plugins:
+  - jekyll-feed
