@@ -1,0 +1,16 @@
+title: Paisley
+email: sedighi@duck.com
+description: >- 
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "/paisley"
+url: "https://herol3oy.github.io" 
+github_username:  herol3oy
+
+remote_theme: jekyll/minima
+minima:
+  skin: dark
+
+plugins:
+  - jekyll-feed
