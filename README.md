@@ -4,8 +4,6 @@ A curated collection of insights from experienced technologists, each answering 
 
 **_"What would you improve in your technical domain?"_**
 
----
-
 ## Inspiration
 
 This project began with a single question I posed on Hacker News about improvements in front-end development. The two responses caught my attention:
@@ -20,8 +18,6 @@ These unexpected and thought-provoking responses revealed the value of asking ex
 
 Paisley is a space to share and celebrate these ideas.  
 
----  
-
 ## How to Contribute  
 
 1. Fork this repository
@@ -30,8 +26,6 @@ Paisley is a space to share and celebrate these ideas.
 4. Create your interview file under `_posts` using the format: `YYYY-MM-DD-firstname-lastname.markdown`
 5. Fill out your interview
 6. Submit a pull request
-
----
 
 ## License
 
