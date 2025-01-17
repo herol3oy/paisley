@@ -4,6 +4,8 @@ A curated collection of insights from experienced technologists, each answering 
 
 **_"What would you improve in your technical domain?"_**
 
+---
+
 ## Inspiration
 
 This project began with a single question I posed on Hacker News about improvements in front-end development. The two responses caught my attention:
