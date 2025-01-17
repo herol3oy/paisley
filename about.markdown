@@ -4,15 +4,20 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Paisley is a curated collection of insights from experienced technologists, each answering one simple yet profound question:
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+**_"What would you improve in your technical domain?"_**
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## Inspiration
 
+This project began with a single question I posed on Hacker News about improvements in front-end development. The two responses caught my attention:
 
-[jekyll-organization]: https://github.com/jekyll
+> "I've done back end work where I dealt with asynchronous situations with production rules and RETE networks; I'd be interested to see this applied to the front end"
+
+> "I would replace the whole ECMA / Javascript ecosystem with a LISPy model."
+
+[Original discussion](https://news.ycombinator.com/item?id=41490327)
+
+These unexpected and thought-provoking responses revealed the value of asking experienced technologists what they would change or improve. Every developer, researcher, and engineer has a unique perspective on what could be better in their domain.
+
+Paisley is a space to share and celebrate these ideas.

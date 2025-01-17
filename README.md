@@ -2,7 +2,7 @@
 
 A curated collection of insights from experienced technologists, each answering one simple yet profound question:  
 
-**_"What would you improve in your technical domain?"_**
+**_"What tool, technology or process would you improve in your technical domain?"_**
 
 ## Inspiration
 
