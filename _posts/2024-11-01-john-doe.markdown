@@ -9,4 +9,4 @@ categories: interview front-end phd nodejs
 
 ### What would you improve in your technical domain?
 
-Some answers comes here.
+Some answers coames here.
