@@ -1,0 +1,12 @@
+---
+layout: post
+title: "John Doe"
+role: "Front-end developer"
+website: "https://johndoe.com"
+date: 2025-11-01 10:01:55 +0100
+categories: interview front-end phd nodejs
+---
+
+### What would you improve in your technical domain?
+
+Some answers comes here.
